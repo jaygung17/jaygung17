@@ -8,9 +8,22 @@
 
 - 🌱 I’m currently learning **Swift [Objective C, UIKit, SwiftUI)**
 
+- 👨‍💻 I'm joining at funiOS bootcamp as a learner 
+
 - 📫 How to reach me **novan.luo.hongjie@icloud.com**
 
 - ⚡ Fun fact **Highly curiosity**
+
+## Education:
+
+### 1. [Universitas Brawijaya](https://ub.ac.id) | Bachelor Of Japanese Literature | Malang '2009-2016'
+        * Taiwan-Indonesia Student Association as volunteer 'Goes to school' 2014
+## Additional:
+### 1. [International Business Management Institute](https://www.ibm-institute.com/) | Risk Management | Berlin.Germany July 2021
+### 2. [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science) | CS50: Introduction for Computer Science | Feb-Mar 2023
+### 3. [HackingWithSwift](https://www.hackingwithswift.com) | 100 days of UIKit and SwiftUI | 2021-2022
+### 4. [Dicoding](https://www.dicoding.com) | Basic and fundamental of Swift | 2020 & 2022
+### 5. [Coursera](https://www.coursera.org/professional-certificates/meta-ios-developer) | iOS App Development & fundamental in swift | 2022
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
