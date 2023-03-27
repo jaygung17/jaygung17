@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Novan Agung Waskito</h1>
-<h3 align="center">A passionate and enthusiasts for Apple Developer and Development</h3>
+# Hi there, I'm Novan Agung Waskito - aka [AgungLuo](https://www.linkedin.com/in/novanagungluo)👋
+
+<h3 align="center">A passionate and enthusiasts for Apple Developer and Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygung17&label=Profile%20views&color=0e75b6&style=flat" alt="jaygung17" /> </p>
 
